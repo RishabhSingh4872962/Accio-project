@@ -1,3 +1,4 @@
+
 .nav-bar{
     display: flex;
 flex-direction: column;
@@ -6,8 +7,8 @@ box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.12);
 }
 .main{
     display: flex;
-width: 1400px;
-padding: 10px 90px;
+width: 1333px;
+padding: 1px 90px;
 justify-content: space-between;
 align-items: center;
 background-color: var(--white);
@@ -15,7 +16,7 @@ background-color: var(--white);
 
 .accouncment{
     display: flex;
-width: 1440px;
+width: 389px;
 padding: 8px 562px;
 align-items: flex-start;
 gap: 10px;
@@ -58,7 +59,7 @@ letter-spacing: -0.869px;
     display: flex;
 align-items: center;
 gap: 28px;
-margin-left: 300px;
+margin-left: 420px;
 }
 
 .link1{
@@ -106,6 +107,7 @@ font-size: 14px;
 font-style: italic;
 font-weight: 400;
 line-height: normal;
+
 }
 
 .arrow-icon {
@@ -397,7 +399,7 @@ line-height: normal;
   .hero-section {
     position: relative;
     background-color: var(--white);
-    width: max-content;
+    width: 1513px;
     height: 783px;
     overflow: hidden;
     flex-shrink: 0;
@@ -1222,11 +1224,10 @@ line-height: normal;
   .course-we-offer {
     position: relative;
     background-color: #ecf8ff;
-    width: 1440px;
+    width: 1488px;
     height: 864px;
     overflow: hidden;
     padding-right: 25px;
-    margin: 30px;
     flex-shrink: 0;
     font-size: var(--font-size-xl);
     color: var(--primary-sky-blue);
@@ -1468,7 +1469,7 @@ line-height: normal;
   }
   .companies-logo {
     top: 323px;
-    left: 108px;
+    left: 115px;
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
@@ -1494,7 +1495,7 @@ line-height: normal;
   .companies {
     position: relative;
     background-color: var(--white);
-    width: 1440px;
+    width: 1513px;
     height: 794px;
     overflow: hidden;
     flex-shrink: 0;
@@ -1709,7 +1710,7 @@ line-height: normal;
   .student-wall {
     position: relative;
     background-color: var(--white);
-    width: 1440px;
+    width: 1513px;
     height: 972px;
     overflow: hidden;
     flex-shrink: 0;
